@@ -25,5 +25,3 @@ The intensity in each channels is encoded as unsigned 8-bit integers 0...255.
 ## Start Neural Networks training:
 - Fully Connected Neural Network (simple neural network + with regularization)
 - Convolutional Neural Network (few convolutional layers + fully connected layers)
-- Deep Convolutional Neural Network (CNN with regularization, shortcuts, batch normalization, advanced initialization etc.)
-# cifar_tutorial
