@@ -1,3 +1,5 @@
+##### Link to air shower example (regression) --> https://github.com/jglombitza/tutorial_nn_airshowers
+
 # CIFAR-10 Dataset
 The CIFAR-10 and CIFAR-100 are labeled subsets of the 80 million tiny images dataset.
 They were collected by Alex Krizhevsky, Vinod Nair, and Geoffrey Hinton.
