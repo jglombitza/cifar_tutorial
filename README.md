@@ -34,6 +34,7 @@ Train a **convolutional neural network** to classify images of the CIFAR-10 data
 <a target="_blank" rel="noopener noreferrer" href="https://colab.research.google.com/github/jglombitza/cifar_tutorial//blob/master/convolutional.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="drawing" width="180"/> </a>
 
 ### Vision transformer
-Train a **transformer network** to classify images of the CIFAR-10 dataset.  
+Train a **transformer network** to classify images of the CIFAR-10 dataset.
+
 <a target="_blank" rel="noopener noreferrer" href="https://colab.research.google.com/github/jglombitza/cifar_tutorial/blob/main/vision_transformer.ipynb
 "><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="drawing" width="180"/> </a>
