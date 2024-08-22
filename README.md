@@ -21,13 +21,19 @@ The intensity in each channels is encoded as unsigned 8-bit integers 0...255.
 ## Start Neural Networks training:
 - Fully Connected Neural Network (simple neural network + with regularization)
 - Convolutional Neural Network (few convolutional layers + fully connected layers)
+- Convolutional Neural Network (few tranformer layers + fully connected layers)
 
 ### Fully-connected network
-Train a **fully-connected network** to reconstruct the energy of a cosmic-ray-induced air shower.  
+Train a **fully-connected network** to classify images of the CIFAR-10 dataset.  
 
 <a target="_blank" rel="noopener noreferrer" href="https://colab.research.google.com/github/jglombitza/cifar_tutorial//blob/master/fully_connected.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="drawing" width="180"/> </a>
 
 ### Convolutional neural network
-Train a **convolutional neural network** to reconstruct the energy of a cosmic-ray-induced air shower.  
+Train a **convolutional neural network** to classify images of the CIFAR-10 dataset.   
 
 <a target="_blank" rel="noopener noreferrer" href="https://colab.research.google.com/github/jglombitza/cifar_tutorial//blob/master/convolutional.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="drawing" width="180"/> </a>
+
+### Vision transformer
+Train a **transformer network** to classify images of the CIFAR-10 dataset.  
+<a target="_blank" rel="noopener noreferrer" href="https://colab.research.google.com/github/jglombitza/cifar_tutorial/blob/main/vision_transformer.ipynb
+"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="drawing" width="180"/> </a>
